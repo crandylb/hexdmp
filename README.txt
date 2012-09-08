@@ -1,4 +1,4 @@
-README.txt -- hexdmp file exam utility, CRB, Sep 7, 2012
+README.txt -- hexdmp file exam utility, CRB, Sep 8, 2012
 
 The hexdmp utility is used to examine the contents of files containing binary
 data where the binary value of each byte is displayed in a pair of hexadecimal
@@ -29,7 +29,7 @@ I originally wrote this program for my own use many years ago. I also used it
 in programming courses I taught at University of Washington Extension.
 
 License
-It is my intention to use the Creative Commons (with attribution). Details to
-follow.
+It is my intention to use the Creative Commons (with attribution)
+license. Details to follow.
 
 C. R. Britten
