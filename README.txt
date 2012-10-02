@@ -1,4 +1,4 @@
-README.txt -- hexdmp file exam utility, CRB, Sep 8, 2012
+README.txt -- hexdmp file exam utility, CRB, Oct 2, 2012
 
 The hexdmp utility is used to examine the contents of files containing binary
 data where the binary value of each byte is displayed in a pair of hexadecimal
@@ -10,12 +10,12 @@ contain all zeros are suppressed and indicated with an ellipsis "...". The
 output format resembles that of the debug utility in DOS.
 
 Use
-     hexdmp filename [start [end]]
+     hexdmp filename [start [runlength]]
 
 The first argument is the name of the file to be examined. The next two
-arguments are the optional start and ending byte addresses in the
-file. Addresses can be either decimal or hexadecimal in the notation used for
-hex data in C, for example 0x123abc.
+arguments are the optional start address and run length. The options can be
+either decimal or hexadecimal in the notation used for hex data in C, for
+example 0x123abc.
 
 Example
 opus:/home/randyl/hexdmp> hexdmp README.txt 0 64
