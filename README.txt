@@ -32,4 +32,12 @@ License
 It is my intention to use the Creative Commons (with attribution)
 license. Details to follow.
 
+----------------
+05/15/2013 CRB Added rpi subdirectory in github
+
+The rpi subdirectory contains the hexdmp executable compiled for the
+Raspberry Pi which uses the ARM 6l processor, compiled using gcc in
+Raspbian on the rpi.
+
+
 C. R. Britten
