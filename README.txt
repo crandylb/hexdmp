@@ -1,4 +1,5 @@
 README.txt -- hexdmp file exam utility, CRB, Oct 2, 2012
+01/19/2014 CRB Clarify free LICENSE
 
 The hexdmp utility is used to examine the contents of files containing binary
 data where the binary value of each byte is displayed in a pair of hexadecimal
@@ -29,8 +30,7 @@ I originally wrote this program for my own use many years ago. I also used it
 in programming courses I taught at University of Washington Extension.
 
 License
-It is my intention to use the Creative Commons (with attribution)
-license. Details to follow.
+This is free software, attribution requested.
 
 ----------------
 05/15/2013 CRB Added rpi subdirectory in github
